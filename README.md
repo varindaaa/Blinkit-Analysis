@@ -3,7 +3,7 @@ Analysis of Blinkit sales and customer data using Python and Jupyter Notebook
 
 Overview:-
 This project focuses on analyzing data from Blinkit (formerly Grofers), one of India’s leading quick-commerce grocery delivery platforms. The aim is to understand sales patterns, customer behavior, product demand, and operational efficiency using Exploratory Data Analysis (EDA) techniques in Python.
-Quick-commerce platforms like Blinkit deal with:
+Quick-commerce platforms like Blinkit deal with-
 Huge volumes of order data (products, prices, ratings, discounts).
 Seasonal demand fluctuations.
 Category-wise variations in sales performance.
