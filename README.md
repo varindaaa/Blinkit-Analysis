@@ -1,4 +1,4 @@
-# 🛒 Blinkit / Retail Sales Analysis – EDA Project
+# 🛒 SpeedShop Insights – EDA Project
 
 ## 📺 Project Overview
 This project performs **Exploratory Data Analysis (EDA)** on retail delivery/sales data (Blinkit) to uncover trends, patterns, and insights for better business decision-making.  
